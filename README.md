@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Abhinav Rai</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align = "right" alt = "profilePhoto" style = "width: 200px; height: 200px; border-radius: 50%;" src= "https://media.licdn.com/dms/image/D4D03AQEvFm5WvHB61A/profile-displayphoto-shrink_800_800/0/1699964586507?e=1726099200&v=beta&t=36Qs8zHew26PsXGq0cEduka9E9YeNLW1FiABliOjGd0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavrai2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavrai2004" /> </p>
 
